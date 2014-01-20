@@ -1,0 +1,51 @@
+#wrap {
+	width:750px;
+	margin:0 auto;
+	background:#99c;
+}
+
+#entete {
+	background:#773;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-family: sans-serif;
+}
+
+#nav {
+	padding:5px 10px;
+	background:#c99;
+}
+
+ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+#nav li {
+	display:inline;
+	margin:0;
+	padding:0;
+}
+
+#main {
+	float:right;
+	width:550px;
+	padding:10px;
+	background:#9c9;
+}
+
+#gauche {
+	float:left;
+	width:160px;
+	padding:10px;
+	background:#c9c;
+}
+
+#pied {
+	clear:both;
+	padding:5px 10px;
+	background:#cc9;
+}
+

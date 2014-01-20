@@ -1,0 +1,33 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+
+<title>Monsieur Bicycle</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/demohtaccess/css/main.css" /> 
+
+<head>
+</head>
+
+<body>
+<div id="wrap">
+	<div id="entete">
+		<h1>Monsieur Bicycle</h1>
+	</div>
+	<div id='nav'>
+		<ul>
+			<li><a href="/demohtaccess/catalogue.php">Accueil</a></li>
+			<li><a href="/demohtaccess/hist.html">Historique</a></li>
+			<li><a href="/demohtaccess/contact.html">Contact</a></li>
+		</ul>
+	</div>
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at malesuada tortor. Nullam ultrices ullamcorper leo tincidunt accumsan. Integer vel arcu in elit ultrices pretium. Sed mauris risus, pulvinar sit amet tempus ac, consequat eget enim. Phasellus rhoncus ultricies neque, at ullamcorper sapien facilisis sed. Phasellus sem sem, tempus eget semper eu, posuere a erat. Pellentesque ut lectus eu sapien pretium iaculis. Cras vehicula feugiat interdum. Donec accumsan sagittis enim at feugiat. Morbi tristique magna ut nulla condimentum dignissim. Nullam mollis mattis tortor vel rutrum. Sed non leo purus. Mauris diam felis, porttitor ut posuere eget, convallis at tellus. Nunc id quam enim, a varius erat. Maecenas imperdiet, arcu a iaculis imperdiet, lacus tellus viverra purus, nec imperdiet augue elit ac sem. Suspendisse dapibus, sapien at lacinia egestas, lectus nisi placerat nulla, vitae placerat diam mauris sit amet ipsum.
+
+
+	<div id="pied">Copyright 2011 James R. Bicycle inc.</div>
+</div>
+</body>
+

@@ -1,0 +1,9 @@
+DirectoryIndex index.php
+Options All -Indexes
+#deny from all
+#allow from 10.30.242.95
+ErrorDocument 404 /demohtaccess/404.html
+RewriteEngine On
+RewriteRule ^accueil$ index.php
+RewriteRule ^([a-z]+)/$ statique/$1.html
+RewriteRule ^([a-z]+)/([0-9]+)/$ catalogue.php?$1=$2
